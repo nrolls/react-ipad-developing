@@ -1,6 +1,7 @@
 ## React 17 starter project for [Code App](https://github.com/codeapp)
 - Support hot reloading
 - Preserve states between reloads using `react-hot-loader`
+- 
 
 To start, run these commands in the terminal:
 ```
